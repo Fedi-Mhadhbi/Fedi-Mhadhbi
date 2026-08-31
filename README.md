@@ -93,11 +93,11 @@ A full-stack web platform designed to promote Tunisian tourism, culture, local a
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fedi-Mhadhbi&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Fedi-Mhadhbi&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedi-Mhadhbi&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fedi-Mhadhbi&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
