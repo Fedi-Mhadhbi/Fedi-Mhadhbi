@@ -13,7 +13,6 @@
 ## 👨‍💻 About Me
 
 I'm **Fedi Mhadhbi**, a Business Computing student and web developer from Tunisia 🇹🇳.
-
 I enjoy building practical web applications and exploring technologies that can solve real-world problems. My current interests include **web development, Artificial Intelligence, cloud technologies, Firebase, and Linux**.
 
 * 🌐 Building full-stack web applications
@@ -55,38 +54,91 @@ I enjoy building practical web applications and exploring technologies that can 
 
 ## 🚀 Featured Projects
 
+> `> ls ./projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Masarif
+*Personal Finance Manager*
+
+A multilingual personal finance web app for tracking income, expenses, budgets, and savings goals, with a built‑in financial health score.
+
+![HTML5](https://img.shields.io/badge/🌐_HTML5-E34F26?style=flat-square&logoColor=white)
+![CSS3](https://img.shields.io/badge/🎨_CSS3-1572B6?style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/⚡_JavaScript-F7DF1E?style=flat-square&logoColor=black)
+![Firebase](https://img.shields.io/badge/🔥_Firebase-FFCA28?style=flat-square&logoColor=black)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-00C853?style=flat-square&logoColor=white)](https://github.com/Fedi-Mhadhbi/Masarif)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🌐 Nour — Tunisia Outage Map
+*Real-Time Outage Reporting Platform*
 
-A collaborative real-time web platform designed to help people across Tunisia report and monitor electricity and water outages.
+A collaborative real-time web platform that helps people across Tunisia report and monitor electricity and water outages, with map clustering and emergency alerts.
 
-**Key features:**
+![HTML5](https://img.shields.io/badge/🌐_HTML5-E34F26?style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/⚡_JavaScript-F7DF1E?style=flat-square&logoColor=black)
+![Firebase](https://img.shields.io/badge/🔥_Firebase-FFCA28?style=flat-square&logoColor=black)
+![PWA](https://img.shields.io/badge/📱_PWA-5A0FC8?style=flat-square&logoColor=white)
 
-* 🗺️ Real-time outage map
-* ⚡ Electricity and water outage reports
-* 📍 Location-based reporting
-* 🧩 Nearby report clustering
-* 🔄 Mixed-status detection
-* 🚨 Emergency alert functionality
-* 📱 Progressive Web App
+[![View Repo](https://img.shields.io/badge/View_Repo-00C853?style=flat-square&logoColor=white)](https://github.com/Fedi-Mhadhbi/nour-outage-map)
 
-🔗 **Repository:** https://github.com/Fedi-Mhadhbi/nour-outage-map
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🇹🇳 TunCover
+*Tunisian Tourism Platform*
 
-A full-stack web platform designed to promote Tunisian tourism, culture, local artisans, and authentic experiences.
+A full-stack platform promoting Tunisian tourism, culture, and local artisans, with booking, simulated payments, and role-based accounts.
 
-**Key features:**
+![HTML5](https://img.shields.io/badge/🌐_HTML5-E34F26?style=flat-square&logoColor=white)
+![PHP](https://img.shields.io/badge/🐘_PHP-777BB4?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/🗄️_MySQL-4479A1?style=flat-square&logoColor=white)
+![PWA](https://img.shields.io/badge/📱_PWA-5A0FC8?style=flat-square&logoColor=white)
 
-* 🗺️ Tourism and experience discovery
-* 🎨 Artisan profiles and cultural content
-* 📅 Booking and reservation management
-* 💳 Simulated payment workflow
-* 👤 Role-based user functionality
-* 📱 Progressive Web App
+[![View Repo](https://img.shields.io/badge/View_Repo-00C853?style=flat-square&logoColor=white)](https://github.com/fedimh666/tuncover)
 
-🔗 **Repository:** https://github.com/fedimh666/tuncover
+</td>
+<td width="50%" valign="top">
+
+### 📅 WeekFlow
+*Weekly Planning App*
+
+A lightweight, installable Progressive Web App for organizing and visualizing your week at a glance.
+
+![HTML5](https://img.shields.io/badge/🌐_HTML5-E34F26?style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/⚡_JavaScript-F7DF1E?style=flat-square&logoColor=black)
+![PWA](https://img.shields.io/badge/📱_PWA-5A0FC8?style=flat-square&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-00C853?style=flat-square&logoColor=white)](https://github.com/Fedi-Mhadhbi/WeekFlow)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Portfolio
+*Personal Developer Portfolio*
+
+My personal portfolio site showcasing my background, skills, projects, and certifications, live on GitHub Pages.
+
+![HTML5](https://img.shields.io/badge/🌐_HTML5-E34F26?style=flat-square&logoColor=white)
+![CSS3](https://img.shields.io/badge/🎨_CSS3-1572B6?style=flat-square&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-00C853?style=flat-square&logoColor=white)](https://github.com/Fedi-Mhadhbi/Portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
