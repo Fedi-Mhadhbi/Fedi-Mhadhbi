@@ -80,6 +80,29 @@ Currently expanding into **cybersecurity** (CompTIA Security+ 701 · Cisco Netwo
 
 <table>
 <tr>
+<td width="100%" colspan="2" valign="top" align="center">
+
+### 🛡️ MiniSOC — Live Attack Detection & Correlation Engine
+*Security Operations Center built from scratch · Detects 7 attack types in real time*
+
+A self-built SOC: a Flask app logs security events, a Python collector tails the log in real
+time, a custom rule engine detects brute force, SQLi, XSS, path traversal, IDOR, account
+enumeration, and endpoint probing — then automatically **correlates multi-stage attacks** into a
+single incident. Live dashboard with a threat gauge, activity charts, and severity-coded alerts,
+all auto-refreshing every 2 seconds. Tested end-to-end against real offensive tooling (Hydra,
+curl-crafted payloads) from a Kali Linux attacker machine.
+
+![Python](https://img.shields.io/badge/🐍_Python-3776AB?style=flat-square&logoColor=white)
+![Flask](https://img.shields.io/badge/⚗️_Flask-000000?style=flat-square&logoColor=white)
+![SQLite](https://img.shields.io/badge/🗄️_SQLite-003B57?style=flat-square&logoColor=white)
+![Kali](https://img.shields.io/badge/🐉_Kali_Linux_Tested-557C94?style=flat-square&logoColor=white)
+![SOC](https://img.shields.io/badge/🔒_Blue_Team-FB7185?style=flat-square&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-grey?style=flat-square)](https://github.com/Fedi-Mhadhbi/MiniSOC)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔌 Nour — Tunisia Outage Map
